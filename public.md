@@ -30,9 +30,19 @@
 
 component設計について書く
 
-* Redux
+* Redux/Vuex
 
 State管理(WebAPI側含め)について書く
+
+### iOS周り
+
+* UI周りについて
+
+書く
+
+* 使用ライブラリ
+
+書く
 
 ### サーバーサイド周り
 

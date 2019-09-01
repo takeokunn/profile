@@ -19,10 +19,13 @@ url: [takeokunn/slack-bot-sandbox](https://github.com/takeokunn/slack-bot-sandbo
 
 開発したことについて書く
 
-#### laravel(rails)-docker-sample
-url1: [takeokunn/rails-docker-sample](https://github.com/takeokunn/rails-docker-sample)
+#### rails-docker-sample
+url: [takeokunn/rails-docker-sample](https://github.com/takeokunn/rails-docker-sample)
 
-url2:[takeokunn/laravel-docker-sample](https://github.com/takeokunn/laravel-docker-sample)
+開発したことについて書く
+
+#### laravel-docker-sample
+url:[takeokunn/laravel-docker-sample](https://github.com/takeokunn/laravel-docker-sample)
 
 開発したことについて書く
 
@@ -60,6 +63,11 @@ url: [takeokunn/portfolio](https://github.com/takeokunn/portfolio)
 
 #### bind9-docker
 url: [takeokunn/bind9-docker](https://github.com/takeokunn/bind9-docker)
+
+開発したことについて書く
+
+#### kintone-slack-notifier
+url: [takeokunn/kintone-slack-notifier](https://github.com/takeokunn/kintone-slack-notifier)
 
 開発したことについて書く
 
