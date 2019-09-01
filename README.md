@@ -1,2 +1,6 @@
-- [Detail](./detail)
-- [Career](./Career)
+- [リンク](./detail)
+- [今までの大体の流れ](./career)
+- [プログラミング言語について](./language)
+- [テキストエディタについて](./editor)
+- [業務にまつわる技術について](./public)
+- [個人にまつわる技術について](./private)
