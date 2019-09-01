@@ -64,7 +64,7 @@ LP制作/フロントエンド/サーバーサイド(Laravel)/GCP/iOS開発す�
 
 全体的に万遍なく技術力がついたのですごい良かった。
 
-jumboさん([@jumbOrNot](https://qiita.com/jumbOrNot))とbtoさんに死ぬほどお世話になった。
+jumboさん([@jumbOrNot](https://qiita.com/jumbOrNot))と尾藤([@bto](https://twitter.com/bto))さんに死ぬほどお世話になった。
 
 給料は未払いのまま。
 
