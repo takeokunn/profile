@@ -26,7 +26,9 @@
 
 AngularJS 1.5系をよく触ってたと思う。
 当時はHTML/CSSすらかけなかったけど、ひたすらひたすらコードを読んだと思う。
+
 [takeokunn/biboro_angularjs](https://github.com/takeokunn/biboro_angularjs)
+
 [takeokunn/biboro_angularjs_v2](https://github.com/takeokunn/biboro_angularjs_v2)
 
 リーウィー([@edisonthk](https://qiita.com/edisonthk))に学食でめちゃくちゃ教えてもらったおかげでめちゃくちゃ成長できたような気がする。
@@ -42,7 +44,7 @@ php5系/CakePHP2.xで開発をしていた。初めて業務コードに触っ�
 
 Ruby/Railsでスタートアップ(教育系事業)の受託開発をやってた。
 最後の方ではMastodonの開発もちょっとやった。
-あおみかんさん(@AknEp)というフリーのエンジニアにめちゃくちゃ良くしてもらった感謝してる。
+あおみかんさん([@AknEp](http://aknep.hatenablog.com/))というフリーのエンジニアにめちゃくちゃ良くしてもらった感謝してる。
 会社が潰れたので契約が切れた。
 
 * pixiv/wantedlyの短期インターンでやったこと
