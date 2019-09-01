@@ -1,4 +1,6 @@
-- [リンク](./detail)
+2019年9月現在の @takeokunn について
+
+- [About Me](./about_me)
 - [今までの大体の流れ](./career)
 - [プログラミング言語について](./language)
 - [日常使いしてるもの](./use)

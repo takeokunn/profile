@@ -1,4 +1,4 @@
-## リンク
+## About Me
 
 * 誕生日: 1995/10/10
 * blog: [https://takeokunn.xyz/](https://takeokunn.xyz/)

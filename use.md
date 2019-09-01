@@ -20,7 +20,7 @@ Makeをするのも速いし、DockerBuildも速いし文句がないくらい�
 
 ##### Emacs
 
-config: [takeokunn/.emacs.d](https://github.com/takeokunn/.emacs.d)
+repo: [takeokunn/.emacs.d](https://github.com/takeokunn/.emacs.d)
 
 Ubuntu使うときは必ず使うエディタ。もともとCommonLispを書くために導入したのだが、想像以上に自由度が高くハマっている。
 
@@ -46,7 +46,7 @@ NeoBundleで最低限のpluginを入れてる。
 
 ##### Nano
 
-
+config: [.nanorc](https://github.com/takeokunn/dotfiles/blob/master/modules/nano/dot.nanorc)
 
 ##### Atom
 
