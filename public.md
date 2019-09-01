@@ -38,14 +38,18 @@ State管理(WebAPI側含め)について書く
 
 * Laravel/Rails
 
+* REST API
 
 ### インフラ周り
 
 * AWS
+
 AWSや構成図について書く
 
 * GCP
+
 GAEなどについて書く
 
 * Heroku
+
 Herokuについて書く
