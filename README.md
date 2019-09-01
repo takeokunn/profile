@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## 自己紹介
 
-You can use the [editor on GitHub](https://github.com/takeokunn/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 誕生日: 1995/10/10
+* blog: https://takeokunn.xyz/
+* GitHub: https://github.com/takeokunn/
+* Twitter: https://twitter.com/takeokunn
+* Qiita: https://qiita.com/takeokunn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 今までの大体の流れ
 
-### Markdown
+|  いつ  |  やったこと  |
+| ---- | ---- |
+|  2014/4  |  大学入学  |
+|  2015/4  |  プログラミング始める  |
+|  2015/9  |  プログラミングアルバイトを始める  |
+|  2016/3  |  個人で受託開発(thinkers)を始める  |
+|  2016/9  |  pixiv/wantedlyの短期インターンに行く  |
+|  2017/2  |  スタートアップに受託開発で入る  |
+|  2017/3  |  スタートアップに入社  |
+|  2017/5  |  個人で受託開発を辞める  |
+|  2018/9  |  スタートアップ退社  |
+|  2018/9  |  UUUM入社  |
+|  2018/10  |  受託開発(みんこれ)を始めた  |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* プログラミング始めたときにやったこと
 
-```markdown
-Syntax highlighted code block
+AngularJS 1.5系をよく触ってたと思う。
+当時はHTML/CSSすらかけなかったけど、ひたすらひたすらコードを読んだと思う。
+[takeokunn/biboro_angularjs](https://github.com/takeokunn/biboro_angularjs)
+[takeokunn/biboro_angularjs_v2](https://github.com/takeokunn/biboro_angularjs_v2)
 
-# Header 1
-## Header 2
-### Header 3
+リーウィー([@edisonthk](https://qiita.com/edisonthk))に学食でめちゃくちゃ教えてもらったおかげでめちゃくちゃ成長できたような気がする。
 
-- Bulleted
-- List
+* プログラミングアルバイトでやったこと
 
-1. Numbered
-2. List
+知り合いの紹介で、株式会社アイパッション([https://ipassion.co.jp/](https://ipassion.co.jp/)) という会社で働いた。
+php5系/CakePHP2.xで開発をしていた。初めて業務コードに触った。
+時給1000円だったし、特に教えてくれる人もいなく、放置されてたし、営業会社なので辛かったような気がする。
+もともと契約期限だったのと、給料を上げろと言ったら契約が切れた。
 
-**Bold** and _Italic_ and `Code` text
+* 個人で受託開発(Thinkers)でやったこと
 
-[Link](url) and ![Image](src)
-```
+Ruby/Railsでスタートアップ(教育系事業)の受託開発をやってた。
+最後の方ではMastodonの開発もちょっとやった。
+あおみかんさん(@AknEp)というフリーのエンジニアにめちゃくちゃ良くしてもらった感謝してる。
+会社が潰れたので契約が切れた。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* pixiv/wantedlyの短期インターンでやったこと
 
-### Jekyll Themes
+pixivの本体の開発(php)とwantedlyの本体の開発(rails)をやった。
+pixivほんと好きになったので就職(転職)するならここかなぁと今でも思ってる。
+たっどさん([@tadsan](https://twitter.com/tadsan))に死ぬほどお世話になった感謝してる。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takeokunn/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* スタートアップでやったこと
 
-### Support or Contact
+LP制作/フロントエンド/サーバーサイド(Laravel)/GCP/iOS開発すべてやった。
+土日なくひたすらコード書いた。
+全体的に万遍なく技術力がついたのですごい良かった。
+jumboさん([@jumbOrNot](https://qiita.com/jumbOrNot))とbtoさんに死ぬほどお世話になった。
+給料は未払いのまま。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* UUUMでやってること
+
+Rails/AWS/Vue周りをやることが多い。
+会社の色々なプロジェクトをやってる。
+
+* 受託開発(みんこれ)でやってること
+
+知り合いの紹介で手伝ってる。
+情報整理だとか、インフラの面倒を見たり、phpで開発をやっている。
+月に10~15時間位の稼働をしてる。
