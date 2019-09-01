@@ -27,6 +27,8 @@ AngularJS 1.5系をよく触ってたと思う。
 
 リーウィー([@edisonthk](https://qiita.com/edisonthk))に学食でめちゃくちゃ教えてもらったおかげでめちゃくちゃ成長できたような気がする。
 
+[biboro](http://biboro.edisonthk.com/)っていうgistみたいなサービスを作った。200記事くらい書いた。
+
 ### プログラミングアルバイトでやったこと
 
 知り合いの紹介で、株式会社アイパッション([https://ipassion.co.jp/](https://ipassion.co.jp/)) という会社で働いた。

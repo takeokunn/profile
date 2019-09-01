@@ -58,4 +58,18 @@ Webフロントエンド専用テキストエディタ。 `.jsx` や `.vue` の�
 
 #### Fish Shell
 
+config: [dotfiles](https://github.com/takeokunn/dotfiles/tree/master/modules/fish)
+
+pathの管理や自前のfunctionなどを用意してる。
+
+peco/ghq/zなどを使っている。
+
+pluginはomfを使っている。
+
 #### Tmux
+
+config: [.tmux.conf](https://github.com/takeokunn/dotfiles/blob/master/modules/tmux/dot.tmux.conf)
+
+tmuxはガッツリ使っている。
+
+pluginはtpmを使っている。
