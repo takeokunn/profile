@@ -56,7 +56,13 @@ Webフロントエンド専用テキストエディタ。 `.jsx` や `.vue` の�
 
 ### Shell周り
 
-#### Fish Shell
+#### Bash
+
+config: [dotfiles](https://github.com/takeokunn/dotfiles/blob/master/modules/bash/Makefile)
+
+`bash-it` を使っている。
+
+#### Fish
 
 config: [dotfiles](https://github.com/takeokunn/dotfiles/tree/master/modules/fish)
 
@@ -73,3 +79,17 @@ config: [.tmux.conf](https://github.com/takeokunn/dotfiles/blob/master/modules/t
 tmuxはガッツリ使っている。
 
 pluginはtpmを使っている。
+
+### Browser
+
+#### Chrome
+
+日常的に使っている。 `chromemacs(vimmiumのemacs版)` というextension入れてる。
+
+#### Firefox
+
+Firefoxのほうが電池もちが良いので出先でよく使う。
+
+Chromeと同様Emacs Keybindにしたかったのでxkeysnailを入れてる。
+
+* [Ubuntu FirefoxをEmacs Keybindにする](https://takeokunn.xyz/blog/post/ubuntu-firefox-emacs-keybind)

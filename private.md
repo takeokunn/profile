@@ -83,7 +83,7 @@ url: [emacs-php/php-mode](https://github.com/emacs-php/php-mode)
 
 ### やったこと
 
-#### blog
+#### Blog
 
 url: [https://takeokunn.xyz/](https://takeokunn.xyz/)
 
