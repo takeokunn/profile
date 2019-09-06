@@ -7,79 +7,89 @@
 #### dotfiles
 url: [takeokunn/dotfiles](https://github.com/takeokunn/dotfiles)
 
-開発したことについて書く
+`core: dotfiles/vim/nano/tmux` `fish: fish shell/peco/ghq/z/omf` `textlint: npm/textlint` を提供してる。
+
+Makefile/Shellで書かれていて、curlでも入るようにしてる。
+
+* [書き初めがてらdotfilesつくった](https://qiita.com/takeokunn/items/ab49759a2ce1bb10e120)
 
 #### .emacs.d
 url: [takeokunn/dotfiles](https://github.com/takeokunn/dotfiles)
 
-開発したことについて書く
+emacs config。ガッツリ改造してる。
 
 #### slack-bot
 url: [takeokunn/slack-bot-sandbox](https://github.com/takeokunn/slack-bot-sandbox)
 
-開発したことについて書く
+heroku + 社内slackで運用してる。
 
 #### rails-docker-sample
 url: [takeokunn/rails-docker-sample](https://github.com/takeokunn/rails-docker-sample)
 
-開発したことについて書く
+railsをdocker化したサンプルコード。
 
 #### laravel-docker-sample
 url:[takeokunn/laravel-docker-sample](https://github.com/takeokunn/laravel-docker-sample)
 
-開発したことについて書く
+laravelをdocker化したサンプルコード。CircleCI2.1を使っている。
 
 #### cl-qiita
 url: [takeokunn/cl-qiita](https://github.com/takeokunn/cl-qiita)
 
-開発したことについて書く
+CommonLispでQiita API Clientのライブラリを作成。
 
 #### businesh/linebot
 url1: [takeokunn/businesh](https://github.com/takeokunn/businesh)
 
 url2: [takeokunn/businesh-line-bot](https://github.com/takeokunn/businesh-line-bot)
 
-開発したことについて書く
+ビジネッシュ翻訳ツール and line bot。npmで公開していて意外とダウンロード数が有る。
 
 #### takengine
 url: [takeokunn/takengine](https://github.com/takeokunn/takengine)
 
-開発したことについて書く
+javascript製の関数型ゲームエンジン。PIXI.jsを使っている。
 
 #### rails-console-repl.el
 url: [takeokunn/rails-console-repl.el](https://github.com/takeokunn/rails-console-repl.el)
 
-開発したことについて書く
+emacs replからrails consoleを叩けるようにしたplugin。
 
 #### youtube_viewer
 url: [takeokunn/youtube_viewer](https://github.com/takeokunn/youtube_viewer)
 
-開発したことについて書く
+UUUM所属youtubeの動画を簡易的にみれるようにviewerを作った。
+
+`electron/react/redux` あたりで作った。
+
+* [Webの技術でYoutube Viewer作った](http://system.blog.uuum.jp/entry/2018/12/20/100000)
 
 #### portfolio
 url: [takeokunn/portfolio](https://github.com/takeokunn/portfolio)
 
-開発したことについて書く
+自分のポートフォリオサイト。 `caveman2/bulma` で書いた。
+
+* [ポートフォリオを作った](https://takeokunn.xyz/blog/post/create-portfolio-web)
 
 #### bind9-docker
 url: [takeokunn/bind9-docker](https://github.com/takeokunn/bind9-docker)
 
-開発したことについて書く
+`bind9` を `docker` で動かした。
 
 #### kintone-slack-notifier
 url: [takeokunn/kintone-slack-notifier](https://github.com/takeokunn/kintone-slack-notifier)
 
-開発したことについて書く
+kintone(日報)を特定の時間に生成 + google calendarから予定を取ってくるようにした。`nodejs` で作った。
 
-#### kintone-slack-notifier
-url: [takeokunn/kintone-slack-notifier](https://github.com/takeokunn/kintone-slack-notifier)
+#### king-of-time-driver
+url: [takeokunn/king-of-time-driver](https://github.com/takeokunn/king-of-time-driver)
 
-開発したことについて書く
+king of timeを自動で出退するプログラム。`nodejs/selenium`で作った。
 
 #### emacs-php/php-mode
 url: [emacs-php/php-mode](https://github.com/emacs-php/php-mode)
 
-開発したことについて書く
+emacsのmajor pluginsの開発をした。
 
 ### やったこと
 
@@ -87,20 +97,20 @@ url: [emacs-php/php-mode](https://github.com/emacs-php/php-mode)
 
 url: [https://takeokunn.xyz/](https://takeokunn.xyz/)
 
-開発したことについて書く
+`infra as a code` を実践してterraformでAWSに構築した。`nginx/php-fpm` の最適化や負荷対策などもした。
 
-#### AWS ECS
+`OctoberCMS` でホスティングしている。
 
-開発したことについて書く
+#### Raspberry PI
 
-#### RaspberryPi
-
-開発したことについて書く
+Lチカ、温湿度センサー、webカメラの制御をすることができた。`python` で書いた。
 
 #### CTF
 
-開発したことについて書く
+url: https://ctf.cpaw.site/
+
+cpaw ctfを一通り解いた。
 
 #### Networking
 
-開発したことについて書く
+Edge Router Xでネットワーク構築をやった。

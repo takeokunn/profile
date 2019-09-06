@@ -50,6 +50,12 @@ config: [.nanorc](https://github.com/takeokunn/dotfiles/blob/master/modules/nano
 
 一時的にサーバー内に入って使うためのエディタ。最低限syntax highlightをするように設定している。
 
+#### lem
+
+config: [.lem](https://github.com/takeokunn/.lem)
+
+CommonLisp製のテキストエディタ。Lispを書く使う。
+
 #### Atom
 
 Webフロントエンド専用テキストエディタ。 `.jsx` や `.vue` のような syntax highlightしづらい言語のために使う。
