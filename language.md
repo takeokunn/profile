@@ -1,6 +1,6 @@
 ## プログラミング言語について
 
-* Love: CommonLisp/PHP/JavaScript/HTML/CSS
-* Normal: Ruby/Swift/Makefile/ShellScript
-* Learning: EmacsLisp/Scheme
-* ReadOnly: Python/C++/Golang
+* Love: JavaScript/PHP/HTML/CSS/CommonLisp
+* Learning: EmacsLisp/Haskell
+* Normal: Ruby/Swift/Makefile/ShellScript/SQL
+* ReadOnly: C++/Golang

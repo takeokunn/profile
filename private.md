@@ -38,6 +38,8 @@ url: [takeokunn/cl-qiita](https://github.com/takeokunn/cl-qiita)
 
 CommonLispでQiita API Clientのライブラリを作成。
 
+* [CommonLispでQiita API Client作った](https://takeokunn.xyz/blog/post/commonlispqiita-api-client)
+
 #### businesh/linebot
 url1: [takeokunn/businesh](https://github.com/takeokunn/businesh)
 
@@ -45,10 +47,12 @@ url2: [takeokunn/businesh-line-bot](https://github.com/takeokunn/businesh-line-b
 
 ビジネッシュ翻訳ツール and line bot。npmで公開していて意外とダウンロード数が有る。
 
+* [npmのlibraryのbuild formatについて](https://takeokunn.xyz/blog/post/publish-npm-library-build-format)
+
 #### takengine
 url: [takeokunn/takengine](https://github.com/takeokunn/takengine)
 
-javascript製の関数型ゲームエンジン。PIXI.jsを使っている。
+javascript製の関数型ゲームエンジン。`PIXI.js` を使っている。
 
 #### rails-console-repl.el
 url: [takeokunn/rails-console-repl.el](https://github.com/takeokunn/rails-console-repl.el)
@@ -86,10 +90,22 @@ url: [takeokunn/king-of-time-driver](https://github.com/takeokunn/king-of-time-d
 
 king of timeを自動で出退するプログラム。`nodejs/selenium`で作った。
 
+#### takeokunn/twitter-webdriver
+url: [takeokunn/king-of-time-driver](https://github.com/takeokunn/king-of-time-driver)
+
+twitterで自動的にフォローをするbot。`nodejs/puppeteer`で作った。
+
 #### emacs-php/php-mode
 url: [emacs-php/php-mode](https://github.com/emacs-php/php-mode)
 
-emacsのmajor pluginsの開発をした。
+emacsのmajor pluginsの開発をしてる。
+
+#### babylonjs
+url: [takeokunn/babylonjs-study](https://github.com/takeokunn/babylonjs-study)
+
+babylonjsをtypescriptで扱ってみた。内容はチュートリアルレベル。
+
+* [Babylon.jsとTypeScriptで遊んでみた](https://takeokunn.xyz/blog/post/babylonjs-typescript)
 
 ### やったこと
 
@@ -98,8 +114,9 @@ emacsのmajor pluginsの開発をした。
 url: [https://takeokunn.xyz/](https://takeokunn.xyz/)
 
 `infra as a code` を実践してterraformでAWSに構築した。`nginx/php-fpm` の最適化や負荷対策などもした。
-
 `OctoberCMS` でホスティングしている。
+
+* [takeokunn.xyzの高速化](https://takeokunn.xyz/blog/post/optimize-takeokunn-xyz)
 
 #### Raspberry PI
 
@@ -110,7 +127,3 @@ Lチカ、温湿度センサー、webカメラの制御をすることができ�
 url: https://ctf.cpaw.site/
 
 cpaw ctfを一通り解いた。
-
-#### Networking
-
-Edge Router Xでネットワーク構築をやった。

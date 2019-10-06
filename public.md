@@ -1,65 +1,66 @@
 ## 業務にまつわる技術について
 
+### DX周り
+
+Docker化やCI/CDを用いて開発環境を整えることができる。
+
+[DX向上について考えてること](https://takeokunn.xyz/blog/post/thinking-about-developer-experience) に思ってることを書いた。
+
 ### SEO周り
+
+得意ではないが、サイト高速化などの知識が有るので人並みにはできる(はず)。
 
 * google analytics/search consoleについて
 
-書く
+google analyticsカスタムレポートの作成などをやったことがある。
+
+SEO対策は業務でもやったことある。
 
 * google pagespeed insightsについて
 
-書く
+[takeokunn.xyz](https://takeokunn.xyz/) の高速化を行った時に使った。
 
 ### Webデザイン周り
 
-* htmlについて
+マークアップは好きなので一番書ける。
 
-書く
+* html/css/jsについて
 
-* cssについて
-
-書く
+LP制作やwebアプリケーションのデザインをマークアップすることができる。
+jQueryなども普通に書くことが出来る。
 
 * アニメーションについて
 
-書く
+cssのアニメーション、javascriptのアニメーション両方書くことができる。
 
 ### Webフロントエンド周り
 
-* AngularJS/Vue/React
+`Vue/React` を用いて開発することが出来る。 `Vue` でも `React` でもSPAで開発をしたことがある。`Redux/Vuex` を使うこともできる。
 
-component設計について書く
-
-* Redux/Vuex
-
-State管理(WebAPI側含め)について書く
+`AngularJS` は1.x系と4系を触ったことあるが、大して詳しくない。
 
 ### iOS周り
 
-* UI周りについて
+`SVProgressHUD/Himotoki/APIKit/Result/KeychainAccess/SwiftDate/CocoaLumberjack/Fabric/SwitfLint` この辺のライブラリを使った。
 
-書く
-
-* 使用ライブラリ
-
-書く
+普通のMVCのアプリケーションを作ることならできる。Swiftは4.1を使った。
 
 ### サーバーサイド周り
 
-* Laravel/Rails
+`Laravel/Rails` でそこそこ大規模(テーブルが60個くらい)の開発を行ったことがある。
 
-* REST API
+働いた経験はサーバーサイドが一番多い。
 
 ### インフラ周り
 
 * AWS
 
-AWSや構成図について書く
+通常のEC2にElasticIPで雑にホスティングされてるサイトの運用から、AWS ECSできちんとコンテナ化されてるサイトの構築/運用もやった。
 
-* GCP
+AWS料金の見直しなども業務で行ったことがある。
 
-GAEなどについて書く
+* GCP/Heroku
 
-* Heroku
+Google App EngineにLaravelをホスティングしたことがある。
 
-Herokuについて書く
+Herokuは普段は雑にホスティングする時に使う程度。

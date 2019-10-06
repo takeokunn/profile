@@ -21,13 +21,12 @@ AngularJS 1系をよく触ってたと思う。
 
 当時はHTML/CSSすらかけなかったけど、ひたすらひたすらコードを読んだと思う。
 
-[takeokunn/biboro_angularjs](https://github.com/takeokunn/biboro_angularjs)
+* [takeokunn/biboro_angularjs](https://github.com/takeokunn/biboro_angularjs)
+* [takeokunn/biboro_angularjs_v2](https://github.com/takeokunn/biboro_angularjs_v2)
 
-[takeokunn/biboro_angularjs_v2](https://github.com/takeokunn/biboro_angularjs_v2)
+リーウィー([@edisonthk](https://qiita.com/edisonthk)) に学食でめちゃくちゃ教えてもらったおかげでめちゃくちゃ成長できたような気がする。
 
-リーウィー([@edisonthk](https://qiita.com/edisonthk))に学食でめちゃくちゃ教えてもらったおかげでめちゃくちゃ成長できたような気がする。
-
-[biboro](http://biboro.edisonthk.com/)っていうgistみたいなサービスを作った。200記事くらい書いた。
+[biboro](http://biboro.edisonthk.com/) っていうgistみたいなサービスを作った。200記事くらい書いた。
 
 ### プログラミングアルバイトでやったこと
 
@@ -45,7 +44,7 @@ Ruby/Railsでスタートアップ(教育系事業)の受託開発をやって�
 
 最後の方ではMastodonの開発もちょっとやった。
 
-あおみかんさん([@AknEp](http://aknep.hatenablog.com/))というフリーのエンジニアにめちゃくちゃ良くしてもらった感謝してる。
+あおみかんさん([@AknEp](http://aknep.hatenablog.com/)) というフリーのエンジニアにめちゃくちゃ良くしてもらった感謝してる。
 
 初めて自分で請求書を出した。
 
@@ -69,7 +68,7 @@ LP制作/フロントエンド/サーバーサイド(Laravel)/GCP/iOS開発す�
 
 全体的に万遍なく技術力がついたのですごい良かった。
 
-jumboさん([@jumbOrNot](https://qiita.com/jumbOrNot))と尾藤([@bto](https://twitter.com/bto))さんに死ぬほどお世話になった。
+jumboさん([@jumbOrNot](https://qiita.com/jumbOrNot)) と尾藤さん([@bto](https://twitter.com/bto)) に死ぬほどお世話になった。
 
 給料は未払いのまま。
 
