@@ -1,4 +1,4 @@
-2019年9月現在の `@takeokunn` について
+2019年10月くらいの `@takeokunn` について
 
 - [About Me](./about_me)
 - [経歴](./career)
